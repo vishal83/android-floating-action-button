@@ -9,3 +9,4 @@ gen
 
 .idea
 *.iml
+library/src/main/bin
